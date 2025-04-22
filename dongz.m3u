@@ -3,7 +3,6 @@
 
 
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XsvbAWR.png" group-title="KIDS",One Piece
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
 
@@ -142,67 +141,10 @@ http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508125
 #EXTINF:-1 tvg-id="skyselect.uk" tvg-name="UK: Sky Cinema Select" tvg-logo="https://dm8eklel4s62k.cloudfront.net/images/sky/small/sky_cinema_on_dark.png" group-title="Sky Cinema", Sky Cinema Select
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/508127
 
-
-
-
-Rakuten
-##############################################################################################################################################################################################################################################################################
-
-
-
-#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Action ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
-
-#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten British Films ᴴᴰ  
-
-
-#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Comedy ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
-
-#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Drama ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
-
-#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Family ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
-
-#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Top Movies ᴴᴰ  
-https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
-
-#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Romance ᴴᴰ  
-https://jmp2.uk/sam-GB2600014LQ.m3u8
-
-#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="Rakuten TV" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
-https://jmp2.uk/sam-GB2600013BO.m3u8
-
-#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="Rakuten TV",Rakuten Thrillers ᴴᴰ  
-
-
-#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="Rakuten TV",Rakuten Viki ᴴᴰ  
-https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="IN: Star Movies" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="Movies",Star Movies
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659476
 #EXTINF:-1 tvg-id="" tvg-name="IN: STAR Movies Select HD" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="Movies",STAR Movies Select HD
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/659504
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -819,8 +761,41 @@ https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/oneph_sd.mpd
 
 
 
+Rakuten
+##############################################################################################################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="GB2600015OS" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork_negative/0511ea59-1994-43e7-805b-f1e40b5ddb91-action-movies-rakuten-tv-1646655463-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Action ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RACTION.m3u8
+
+#EXTINF:-1 tvg-id="British.Films.-.Rakuten.TV.en" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/4ae1c43a-3730-452d-9e09-ffd9162b0e66-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten British Films ᴴᴰ  
 
 
+#EXTINF:-1 tvg-id="GB2600020OP" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork_negative/060e7294-6008-4924-9879-b5d67b191534-comedy-movies-rakuten-tv-1646655938-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Comedy ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RCOMEDY.m3u8
+
+#EXTINF:-1 tvg-id="GB2600012R3" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/fea19cee-698e-45e0-9a8f-4714181bd0f4-drama-movies-rakuten-tv-1646656997-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Drama ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RDRAMA.m3u8
+
+#EXTINF:-1 tvg-id="GB2600017PX" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/97d6f2f2-b757-46c2-8d8c-f78b084b1220-family-rakuten-tv-1646657558-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Family ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RFAMILY.m3u8
+
+#EXTINF:-1 tvg-id="GB2600018PD" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/bd059380-7181-47a0-8f7c-e20a86788a99-top-movies-rakutentv-1646658125-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Top Movies ᴴᴰ  
+https://raw.githubusercontent.com/mystery75/m3u8/main/RTOPMOVIES.m3u8
+
+#EXTINF:-1 tvg-id="GB2600014LQ" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork-negative/287ea9f7-b2da-42fd-8ffa-b636eb08b5b2-width190-quality100.png" group-logo=""  group-title="Rakuten TV",Rakuten Romance ᴴᴰ  
+https://jmp2.uk/sam-GB2600014LQ.m3u8
+
+#EXTINF:-1 tvg-id="GB2600013BO" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork-negative/3bae481e-2c87-4e98-85b3-2a1ad67ffb8b-width200-quality90.png" group-title="Rakuten TV" tvg-chno="4975",Rakuten Sci-Fi ᴴᴰ
+https://jmp2.uk/sam-GB2600013BO.m3u8
+
+#EXTINF:-1 tvg-id="Thrillers.-.Rakuten.TV.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork_negative/1d168cc5-df73-4647-ac86-6f07b6202546-thrillers-rakuten-tv-1646657740-width190-quality100.png" group-logo="" group-title="Rakuten TV",Rakuten Thrillers ᴴᴰ  
+
+
+#EXTINF:-1 tvg-id="Rakuten.VIKI.en" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork-negative/38a298ea-4739-4ae9-b656-7f5881195c06-width190-quality100.png" group-logo="" group-title="Rakuten TV",Rakuten Viki ᴴᴰ  
+https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/048a962c-e84b-4a0e-aeb3-98376f4b9953/2.m3u8
+
+Sky Store
+##############################################################################################################################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="SKY STORE",Sky Store info ᴴᴰ
 http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791635
@@ -885,11 +860,8 @@ http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791664
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/jCsVjt.md.png" group-title="SKY STORE",Sky Store Premiere 30 ᴴᴰ
 http://blazetv.host:8080/ivyhill85@gmail.com/EypmM6kXfEnB/791665
 
-
-
-
-
-
+Netflix
+##############################################################################################################################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="NETFLIX Premiere",Netflix Premiere info ᴴᴰ
 http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791575
@@ -942,6 +914,8 @@ http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791598
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="https://iili.io/wUZqOv.md.png" group-title="NETFLIX Premiere",Netflix Series 10 ᴴᴰ
 http://blazetv.link:8080/DarrelReynolds70/Reynolds05/791599
 
+Anime
+##############################################################################################################################################################################################################################################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="Anime info ᴴᴰ" tvg-logo="https://iili.io/HPnrC6g.md.png" group-title="EXCLUSIVE",Anime info ᴴᴰ
 http://globalstreamz.xyz:3050/Mika541/thAJT6Wqbs/566951
