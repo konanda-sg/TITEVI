@@ -319,8 +319,16 @@ http://fl2.moveonjoy.com/FXX/index.m3u8
 
 
 #EXTINF:-1 tvg-id="CINEMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1280px-Cinemax_%28Yellow%29.svg.png" group-title="Movies", CINEMAX (US)
-http://170.254.18.106/CINEMAX/index.m3u8
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v5.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" group-title="Movies" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX Eastern
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v16.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=efdb2a8d39151cc39f4b51d762cf9c10:13cc535ad4a73201147863cac386cdd3
@@ -337,7 +345,10 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 http://170.254.18.106/COMEDY_CENTRAL/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fHBIgs6l.png" group-title="Movies", HBO (US)
-http://143.244.60.97/HBO/index.m3u8
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v8.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a098896d2b11c5f3906a993c3ba5c610:f3f842c54cc96cbbd0bcb96a4cb8a813
@@ -388,7 +399,10 @@ http://170.254.18.106/HBO2/index.m3u8
 http://170.254.18.106/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-id="HBO Signature" tvg-logo="https://i.postimg.cc/TYZQ6STM/8047802smbenknl54d1qi40m9m-320b8e1b7abb5c846e89cb9ad3ca8e39.png" group-title="Movies", HBO Signature
-http://170.254.18.106/HBO_SIG/index.m3u8
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v2.thetvapp.to/hls/HBOSignatureEast/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://qp-pldt-image-resizer-cloud-prod.akamaized.net/image/D5127959-34E4-41B2-AA80-CE74DDC2C3C4/0-16x9.jpg?width=203" group-title="Movies", HBO Signature Cignal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -512,8 +526,11 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_ott.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_logotype.png" group-title="KIDS",Cartoon Network (USA)
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://danytips.com/wp-content/uploads/2020/11/Nickelodeon_Logo_2004.png" group-title="KIDS", Nickelodeon (USA)
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="KIDS" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon USA - East Feed
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v4.thetvapp.to/hls/NickelodeonEast/tracks-v1a1/mono.m3u8
 
 
 
