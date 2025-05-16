@@ -723,11 +723,10 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TxM8ze5.png" group-title="PH LOCAL", Heart Of Asia
-http://tvnijuan.net:38081/ryan/ry@n/609
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nudQeH7.png" group-title="PH LOCAL", I Heart Movies
-http://tvnijuan.net:38081/ryan/ry@n/608
-
+#EXTINF: -1 tvg-id="" tvg-logo="" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/thumb/2/26/I_Heart_Movies_2021.png/250px-I_Heart_Movies_2021.png" group-title="PH LOCAL", GMA I Heart Movies
+https://nokotan.anhkz.fr/channel/582ee6b4/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
+#EXTINF: -1 tvg-id="" tvg-logo="" tvg-logo-small="https://static.wikia.nocookie.net/russel/images/6/60/Heart_of_Asia_Logo_2020.png" group-title="PH LOCAL", GMA Heart of Asia
+https://nokotan.anhkz.fr/channel/n13585467/index.m3u8?q=0842d25e3217cafb3fddf9cd0dfe0a1e
 
 
 
@@ -737,11 +736,6 @@ http://tvnijuan.net:38081/ryan/ry@n/608
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d273c085f2ab4a248e7bfc375229007d:7932354c3a84f7fc1b80efa6bcea0615
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
-
-
-#EXTINF:-1 tvg-id="" tvg-name="GanbaTV" tvg-logo="" group-title="Entertainment", GanbaTV
-https://tv.jomarhost.xyz/memfs/7a68dbe7-c91b-49b5-bd2f-1b0d16dd187c.m3u8
-
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
