@@ -647,7 +647,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="KIDS",Aniplus English
-https://amg18481-amg18481c1-amgplt0.../amg18481-amg18481c1-amgplt0352/playlist.m3u8
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 #EXTINF:0 tvg-country="US" tvg-logo="" group-title="KIDS",Anime All Day
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26a781-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6903cfae-183e-4d3b-a482-b7acf38ce356&serverSideAds=false&checkedby:iptvcat.com
